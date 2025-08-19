@@ -1,0 +1,12 @@
+{
+    "headers": [
+      {
+        "source": "**/*.br",
+        "headers": [
+          { "key": "Content-Encoding", "value": "br" },
+          { "key": "Content-Type", "value": "application/javascript" }
+        ]
+      }
+    ]
+  }
+  
